@@ -6,14 +6,14 @@ A curated list of awesome ARKit projects and resources. Feel free to contribute!
 
 ARKit is a new framework that allows you to easily create unparalleled augmented reality experiences for iPhone and iPad. By blending digital objects and information with the environment around you, ARKit takes apps beyond the screen, freeing them to interact with the real world in entirely new ways.
 
-- [Projects](#projects)
-- [AppStore](#appstore)
+- [Open-cource Projects](#projects)
+- [Apps in App Store](#appstore)
 - [Tutorials](#tutorials)
 - [Resources](#resources)
 
 - - -
 
-# Projects
+# Open-Source Projects
 * [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) - Bluetoothed ARKit 2.0 with ARWorldMap
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
@@ -80,7 +80,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
 
-# AppStore
+# Apps in App Store
 
 * [ARPiano](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - A augmented reality fine-tuned and professional piano app with 61 keys or 88 keys, which you can place every plane to play.
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.

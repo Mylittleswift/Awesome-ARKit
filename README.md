@@ -79,7 +79,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
-* [MultiusersAndPreviewAR] (https://github.com/OrangesChen/MultiusersAndPreviewAR) 使用ARKit2实现多用户共享AR场景及AR预览usdz格式文件
+* [MultiusersAndPreviewAR](https://github.com/OrangesChen/MultiusersAndPreviewAR) 使用ARKit2实现多用户共享AR场景及AR预览usdz格式文件
 
 # Apps in App Store
 
